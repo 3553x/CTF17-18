@@ -1,7 +1,7 @@
 # CTF17-18
 ## CSSOC CTF from the 27th of April 2018
 
-Some challenges were tested with scripts
+Some challenge directories contain scripts which can be used to solve the respective challenges (solve.py, solve.sh etc).
 
 ### Web
 
